@@ -19,5 +19,5 @@ applet_minheight=503
 applet_maxwidth=5760
 applet_maxheight=2160
 param=17=https://raw.githubusercontent.com/MrFewty/alter-bootstrap/main/world_list.ws
-param=25=228
+param=25=227
 param=12=255
