@@ -55,7 +55,7 @@ param=2=https://payments.jagex.com/
 param=12=255
 param=17=https://raw.githubusercontent.com/MrFewty/alter-bootstrap/main/world_list.ws
 param=21=0
-param=25=228
+param=25=236
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
 param=15=0
 param=18=
