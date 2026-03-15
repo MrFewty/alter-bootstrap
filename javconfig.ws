@@ -1,6 +1,6 @@
 title=Testing Server
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://65.109.26.9/
+codebase=http://65.109.26.97/
 cachedir=blurite
 storebase=0
 initial_jar=gamepack_2221869.jar
